@@ -1,8 +1,11 @@
+plugins:
+  - jekyll-seo-tag
+
 # Titel
-title: Christen helfen in Rumänien Baierbronn 
+title: Christen helfen in Rumänien Baiersbronn 
 
 # Eine 1-Satz Beschreibung
-tagline: Wir sind eine christliche Gruppe aus Baierbronn und helfen in Rumänien. 
+tagline: Wir sind eine christliche Gruppe aus Baiersbronn und helfen in Rumänien. 
 
 # Beschreibung (wird als Titel benutzt wenn kein TITLE verwendet wird)
 description: Teile mit dem Hungrigen dein Brot (Jesaja 58,7). Nach diesem Leitsatz unterstützen wir als 
